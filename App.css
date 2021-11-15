@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.thead{
+  background-color: #4B0082;
+}
+
+.heading{
+  color: #ffffff;
+}
+
+.form-control{
+  width: 150px;
+  margin: auto;
+  
+}
+
+.container-fluid{
+  margin-bottom: 10px;
+}
+
+.main-heading{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 30px;
+}
